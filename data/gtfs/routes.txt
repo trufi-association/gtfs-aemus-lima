@@ -1,0 +1,7 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+1132,SATELITE,1132,Callao - La Victoria,3
+1132SX,SATELITE,1132SX,Aerodirecto Centro: Lima - Callao,3
+1180,NUEVAAMERICA,1180,Torre Blanca (Carabayllo) - Pamplona Alta (S.J.M.),3
+1435SX,NUEVAAMERICA,1435SX,Aerodirecto Norte,3
+1185,LOSCHINOS,1185,Ensenada (Puente Piedra) - Av. Lima (Villa El Salvador),3
+1481,SANSEBASTIAN,1481,Linea 50: San Juan de Lurigancho - Callao,3

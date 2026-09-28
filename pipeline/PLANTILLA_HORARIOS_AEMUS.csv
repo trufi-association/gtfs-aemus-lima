@@ -1,0 +1,13 @@
+﻿codigo_ruta,empresa,ruta,sentido,primera_salida,ultima_salida,frec_punta_am_min,frec_valle_min,frec_punta_pm_min,opera_lun_vie,opera_sabado,opera_domingo_feriado,tarifa_soles
+1132,E.T. y Servicios Multiples Satelite S.A.,URBANITO,IDA,,,,,,,,,
+1132,E.T. y Servicios Multiples Satelite S.A.,URBANITO,RETORNO,,,,,,,,,
+1132-SX,E.T. y Servicios Multiples Satelite S.A.,AERODIRECTO CENTRO,IDA,,,,,,,,,
+1132-SX,E.T. y Servicios Multiples Satelite S.A.,AERODIRECTO CENTRO,RETORNO,,,,,,,,,
+1180,E.T. y Servicios Nueva America S.A.,NUEVA AMERICA,IDA,,,,,,,,,
+1180,E.T. y Servicios Nueva America S.A.,NUEVA AMERICA,RETORNO,,,,,,,,,
+1435-SX,E.T. y Servicios Nueva America S.A.,AERODIRECTO NORTE,IDA,,,,,,,,,
+1435-SX,E.T. y Servicios Nueva America S.A.,AERODIRECTO NORTE,RETORNO,,,,,,,,,
+1185,E.T. Urbanos Los Chinos S.A.,ETUCHISA,IDA,,,,,,,,,
+1185,E.T. Urbanos Los Chinos S.A.,ETUCHISA,RETORNO,,,,,,,,,
+1481,E.T. Patron San Sebastian S.A.C.,LA 50,IDA,,,,,,,,,
+1481,E.T. Patron San Sebastian S.A.C.,LA 50,RETORNO,,,,,,,,,

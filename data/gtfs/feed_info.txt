@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Trufi Association e.V.,https://www.trufi-association.org,es,20260928,20270927,aemus-2026-09-28

@@ -1,0 +1,6 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+DOM,0,0,0,0,0,0,1,20260928,20270927
+LD,1,1,1,1,1,1,1,20260928,20270927
+LS,1,1,1,1,1,1,0,20260928,20270927
+LV,1,1,1,1,1,0,0,20260928,20270927
+SAB,0,0,0,0,0,1,0,20260928,20270927
